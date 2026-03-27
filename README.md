@@ -28,6 +28,6 @@ O sistema permite visualizar rapidamente quais produtos precisam de reposição,
 pip install -r requirements.txt
 streamlit run app.py# dashboard-estoque-python
 
-## 📸 Dashboard em funcionamento
+## 📸 Preview
 
 ![Dashboard](print.png)
