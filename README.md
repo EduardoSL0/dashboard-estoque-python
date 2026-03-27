@@ -22,12 +22,13 @@ Este projeto foi criado com foco em resolver um problema real: o controle de est
 
 O sistema permite visualizar rapidamente quais produtos precisam de reposição, ajudando na tomada de decisão.
 
+## 📸 Preview
+
+![Dashboard](print.png)
+
 ## ▶️ Como executar
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py# dashboard-estoque-python
 
-## 📸 Preview
-
-![Dashboard](print.png)
